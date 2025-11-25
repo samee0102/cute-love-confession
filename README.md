@@ -7,5 +7,5 @@ script.js   → button interactions, confetti, draggable logic
 assets/     → images used inside the project (you can replace them)
 
 ## Credits
-Made by Sameena (@samcodes.ai)
+Made by Sameena Parvin (@samcodes.ai)
 If you create your own version using this, tag me - I’d love to see 
